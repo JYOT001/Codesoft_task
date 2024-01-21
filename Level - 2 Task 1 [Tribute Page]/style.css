@@ -1,0 +1,84 @@
+body {
+    background: linear-gradient(to right, #02722f, #5c4897);     
+    color: tomato;
+    margin: 12%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+h1 {
+    text-align: center;
+    color: cyan;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(0, 4, 255), 0 0 5px darkblue;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 330px;
+    height: 360px;
+}
+
+p {
+    text-decoration-color: rgb(252, 244, 136);
+    text-align: justify;
+}
+
+.timeline {
+    text-align: center;
+    color: tomato;
+    margin: 15%;
+    margin-top: 3%;
+    margin-bottom: 0%;
+}
+
+.bq {
+    width: auto;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 5%;
+    margin-bottom: 0%;
+    text-align: center;
+}
+
+.bs {
+    text-align: center;
+    border: 4px solid rgb(0, 128, 96);
+    margin: 5%;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    padding: 5px;
+    padding-bottom: 2%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+    margin: auto;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 10px;
+    margin: 25px;
+    margin-top: 1%;
+}
+
+.fb {
+    text-align: center;
+    color: cyan;
+}
+
+.wiki {
+    color: goldenrod;
+    text-align: center;
+}
+
+.footer {
+    color: rgb(0, 1, 0);
+    text-align: center;
+}
