@@ -1,0 +1,48 @@
+[
+  {
+    "name": "P.C full Service",
+    "desc": "Fully serviced and installed components to upgrade the performance ",
+    "image": "hardware service",
+    "category": "lamp",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1XUAJ3oOR_XPZHdXVKlba5SnNVsh8iWDM?usp=drive_link"
+    }
+  },
+
+  {
+    "name": "Cyborg's Restro Page",
+    "desc": "restro website built using HTML,CSS,Javascript. To Showcase the items available at restro",
+    "image": "Cyborg's Restro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/JYOT001/Codesoft_task/tree/18b87d419969fa3330d1a72b8451b12734b42888/Level%20-%201%20Task%201%20%5BLanding%20Page%5D"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/JYOT001/Codesoft_task/tree/18b87d419969fa3330d1a72b8451b12734b42888/Level%20-%201%20Task%202%20%5BPortfolio%5D"
+    }
+  },
+  {
+    "name": "Tribute page",
+    "desc": "Simple Tribute page website built using HTML, CSS.",
+    "image": "Tribute page",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/JYOT001/Codesoft_task/tree/main/Level%20-%202%20Task%201%20%5BTribute%20Page%5D"
+    }
+  },
+  {
+    "name": "Calculator Web",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "calculator web",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/JYOT001/Codesoft_task/tree/main/Level%20-%201%20Task%203%20%5BCalculator%5D"
+    }
+  }
+]
